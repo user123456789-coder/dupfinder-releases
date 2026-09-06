@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="DupFinder" width="130" align="left" hspace="18" vspace="6" />
+
 # DupFinder
 
 **Findet doppelte Dateien über mehrere Backup-Ordner hinweg und baut daraus ein einziges,
